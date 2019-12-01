@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Default Suite]">
+  <test name="seleniumdemo1701">
+    <classes>
+      <class name="Browerdemo.openchrome"/>
+    </classes>
+  </test> <!-- seleniumdemo1701 -->
+  <test name="seleniumdemo1701(failed)">
+    <classes>
+      <class name="Browerdemo.openchrome">
+        <methods>
+          <include name="closedchrome"/>
+          <include name="openEdge"/>
+        </methods>
+      </class> <!-- Browerdemo.openchrome -->
+    </classes>
+  </test> <!-- seleniumdemo1701(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
