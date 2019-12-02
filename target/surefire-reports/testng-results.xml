@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="31700" started-at="2019-12-01T10:17:05Z" finished-at="2019-12-01T10:17:37Z">
+  <suite name="Default Suite" duration-ms="69429" started-at="2019-12-02T11:53:54Z" finished-at="2019-12-02T11:55:03Z">
     <groups>
     </groups>
-    <test name="seleniumdemo1701" duration-ms="31700" started-at="2019-12-01T10:17:05Z" finished-at="2019-12-01T10:17:37Z">
+    <test name="seleniumdemo1701" duration-ms="69429" started-at="2019-12-02T11:53:54Z" finished-at="2019-12-02T11:55:03Z">
       <class name="Browerdemo.openchrome">
-        <test-method status="FAIL" signature="openEdge()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="openEdge" duration-ms="138" started-at="2019-12-01T18:17:05Z" finished-at="2019-12-01T18:17:05Z">
+        <test-method status="FAIL" signature="openEdge()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="openEdge" duration-ms="55" started-at="2019-12-02T19:53:54Z" finished-at="2019-12-02T19:53:54Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver executable does not exist: E:\seleniumdemo1701\drivers\chromedriver.exe]]>
@@ -56,11 +56,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openEdge -->
-        <test-method status="PASS" signature="openchrome()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="openchrome" duration-ms="24233" started-at="2019-12-01T18:17:05Z" finished-at="2019-12-01T18:17:29Z">
+        <test-method status="PASS" signature="openchrome()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="openchrome" duration-ms="62043" started-at="2019-12-02T19:53:54Z" finished-at="2019-12-02T19:54:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openchrome -->
-        <test-method status="PASS" signature="closedchrome()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="closedchrome" is-config="true" duration-ms="7313" started-at="2019-12-01T18:17:29Z" finished-at="2019-12-01T18:17:37Z">
+        <test-method status="PASS" signature="closedchrome()[pri:0, instance:Browerdemo.openchrome@6fadae5d]" name="closedchrome" is-config="true" duration-ms="7315" started-at="2019-12-02T19:54:56Z" finished-at="2019-12-02T19:55:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closedchrome -->

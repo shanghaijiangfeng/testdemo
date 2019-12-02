@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="24.374" tests="2" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="62.102" tests="2" errors="0" skipped="0" failures="1">
   <properties>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -35,14 +35,14 @@
     <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 10, GenuineIntel"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="LOCALAPPDATA" value="C:\Users\jiangfeng\AppData\Local"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/6/display/redirect?page=changes"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/7/display/redirect?page=changes"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="user.script" value=""/>
     <property name="path.separator" value=";"/>
     <property name="NUMBER_OF_PROCESSORS" value="6"/>
-    <property name="BUILD_TAG" value="jenkins-jftest1-seleniumdemo1701:seleniumdemo1701-6"/>
+    <property name="BUILD_TAG" value="jenkins-jftest1-seleniumdemo1701:seleniumdemo1701-7"/>
     <property name="file.encoding" value="GBK"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main F:\mev\apache-maven-3.6.2 F:\apache-tomcat-8.0.53\webapps\jenkins\WEB-INF\lib\remoting-3.33.jar C:\Users\jiangfeng\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\jiangfeng\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 61033"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main F:\mev\apache-maven-3.6.2 F:\apache-tomcat-8.0.53\webapps\jenkins\WEB-INF\lib\remoting-3.33.jar C:\Users\jiangfeng\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\jiangfeng\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 62494"/>
     <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
     <property name="JENKINS_SERVER_COOKIE" value="4208248829867fd0"/>
     <property name="EXECUTOR_NUMBER" value="1"/>
@@ -52,16 +52,16 @@
     <property name="user.language" value="zh"/>
     <property name="CATALINA_TMPDIR" value="F:\apache-tomcat-8.0.53\temp"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/6/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/7/"/>
     <property name="ACTION" value="start"/>
     <property name="M2_HOME" value="F:\mev\apache-maven-3.6.2"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
     <property name="sun.desktop" value="windows"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#6"/>
+    <property name="BUILD_DISPLAY_NAME" value="#7"/>
     <property name="OS" value="Windows_NT"/>
-    <property name="hudson.build.number" value="6"/>
+    <property name="hudson.build.number" value="7"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="CATALINA_BASE" value="F:\apache-tomcat-8.0.53"/>
     <property name="HUDSON_SERVER_COOKIE" value="4208248829867fd0"/>
@@ -79,7 +79,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="6"/>
+    <property name="BUILD_NUMBER" value="7"/>
     <property name="maven3.interceptor" value="C:\Users\jiangfeng\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\mev\apache-maven-3.6.2/bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Common Files\oracle\Java\javapath;D:\bin;D:\Git\cmd;.;C:\Program Files\Java\jdk1.8.0_211\lib;C:\Program Files\Java\jdk1.8.0_211\lib\tools.jar;."/>
     <property name="HOMEDRIVE" value="C:"/>
@@ -89,10 +89,10 @@
     <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_211\bin\jdb.exe&quot;"/>
     <property name="JOB_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/"/>
     <property name="OneDrive" value="C:\Users\jiangfeng\OneDrive"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/6/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/jftest1/seleniumdemo1701$seleniumdemo1701/7/display/redirect"/>
     <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
     <property name="JENKINS_HOME" value="C:\Users\jiangfeng\.jenkins"/>
-    <property name="BUILD_ID" value="6"/>
+    <property name="BUILD_ID" value="7"/>
     <property name="TEMP" value="C:\Users\JIANGF~1\AppData\Local\Temp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
     <property name="JDK_JAVA_OPTIONS" value=" --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"/>
@@ -150,7 +150,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
   </properties>
-  <testcase name="openEdge" classname="Browerdemo.openchrome" time="0.143">
+  <testcase name="openEdge" classname="Browerdemo.openchrome" time="0.061">
     <failure message="The driver executable does not exist: E:\seleniumdemo1701\drivers\chromedriver.exe" type="java.lang.IllegalStateException"><![CDATA[java.lang.IllegalStateException: The driver executable does not exist: E:\seleniumdemo1701\drivers\chromedriver.exe
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:199)
 	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:121)
@@ -163,5 +163,5 @@
 	at Browerdemo.openchrome.openEdge(openchrome.java:31)
 ]]></failure>
   </testcase>
-  <testcase name="openchrome" classname="Browerdemo.openchrome" time="24.231"/>
+  <testcase name="openchrome" classname="Browerdemo.openchrome" time="62.041"/>
 </testsuite>
