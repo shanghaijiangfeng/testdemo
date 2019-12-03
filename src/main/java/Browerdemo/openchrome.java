@@ -23,7 +23,7 @@ public class openchrome {
         String title=driver.getTitle();
         System.out.println(title);
         Assert.assertEquals(title,"新浪首页");
-        System.out.println("test11111");
+        
     }
 
     @Test
